@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Canvas Quiz Tracking Blocker",
   "version": "1.0",
-  "description": "Blocks certain jQuery AJAX requests and clears quiz events from localStorage.",
+  "description": "Blocks canvas event requests during a quiz.",
   "permissions": ["scripting", "storage"],
   "content_scripts": [
     {
